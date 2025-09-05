@@ -1,0 +1,38 @@
+commit c37da2c94c51d96737ca48e67a99ea052582f09d
+Author: Aunmongsh <shibuyamomoka@gmail.com>
+Date:   Thu Sep 4 20:49:38 2025 -0700
+
+    Editted h1 to good night, world
+
+commit 735cf22fd95cfe5b31183249e06eecc2152aa489
+Author: Aunmongsh <shibuyamomoka@gmail.com>
+Date:   Thu Sep 4 19:09:51 2025 -0700
+
+    Added h1 line with Bye
+
+commit ea43f87099157e3cf69ab7307842c78927458d08
+Author: Aunmongsh <shibuyamomoka@gmail.com>
+Date:   Thu Sep 4 19:06:56 2025 -0700
+
+    Add README.md describing the repo
+
+commit 091899e91222058fe063c65c6eba310ee8b1fd5e
+Merge: 1d2bfc0 28c59ef
+Author: Aumongsh <155405950+Aumongsh@users.noreply.github.com>
+Date:   Thu Sep 4 19:04:26 2025 -0700
+
+    Merge pull request #1 from Aumongsh/info-fill
+    
+    Filled in the blanks on index.html
+
+commit 28c59ef3571a149b45a9cbc9073f3c30d00ba95f
+Author: Aunmongsh <shibuyamomoka@gmail.com>
+Date:   Thu Sep 4 18:24:14 2025 -0700
+
+    Filled in the blanks on index.html
+
+commit 1d2bfc0c7ca5c63bb12bd6add9fed720c852ae70
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Wed Aug 28 01:13:39 2024 -0700
+
+    Added index.html
